@@ -10,6 +10,8 @@ https://www.ricequant.com/courses/
 
 http://pandas.pydata.org/index.html
 
+http://jupyter.readthedocs.io/en/latest/install.html
+
 https://www.zhihu.com/question/35097533
 
 https://www.zhihu.com/question/37180159
