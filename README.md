@@ -26,12 +26,13 @@ conda install pandas //install pandas in your environment, you can choose any ot
 conda instal ipython
 conda install pip
 pip install nose
-```python
+```
 
 # Commands in Pandas
-```python
 
+```python
 import pandas as pd
 pd.test()
-```python
+```
+
 
