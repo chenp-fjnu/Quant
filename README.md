@@ -18,6 +18,7 @@ https://www.zhihu.com/question/37180159
 
 http://pandas.pydata.org/pandas-docs/stable/10min.html
 
+https://www.quantopian.com
 # Commands in Anaconda
 ```python
 conda create -n dev python //dev is the name of environment
